@@ -1,21 +1,4 @@
-#curd opereion 
-# 1. c-create record
-#  2.r-read record 
-# 3.u-update record 
-# 4.d-delete record 
-
-#student management system project
-
-# additional operetions to add
-# 1.search by course 
-# 2. search by name 
-# 3. max marks and min marks 
-# 4.to display marks>=60 
-# 5.total marks 
-# 6.marks asc and desc order 
-
-
-
+# Student Management System 
 print("Welcome To Student Management System.")
 student={1:{'name':'john','course':'python','marks':78,'city':'pune'}}
 
